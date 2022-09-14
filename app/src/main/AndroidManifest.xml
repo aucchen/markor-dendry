@@ -1069,6 +1069,37 @@
                     android:mimeType="*/*"
                     android:pathPattern=".*\..*\..*\..*\..*\..*\..*\..*\..*\..*\.csv" />
 
+                <!-- Handling of file extension ".dry" -->
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\..*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\..*\..*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\..*\..*\..*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\..*\..*\..*\..*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\..*\..*\..*\..*\..*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\..*\..*\..*\..*\..*\..*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\..*\..*\..*\..*\..*\..*\..*\.dry" />
+                <data
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\..*\..*\..*\..*\..*\..*\..*\..*\..*\.dry" />
 
             </intent-filter>
         </activity>
